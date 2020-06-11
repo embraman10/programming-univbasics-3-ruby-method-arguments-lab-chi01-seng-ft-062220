@@ -1,13 +1,3 @@
-def introduction
-  puts "Hi my name is #{name}"
-end
-introduction(Emily)
-
-def introduction_with_language
-  puts "Hi, my name is #{name} and I am learning to program in #{language}."
-end
-introduction_with_language(Emily, Ruby)
-
 def introduction_with_language_optional (name, FlatIron)
   puts "Hi, my name is #{name} and I am learning to program in #{language}"
 end
