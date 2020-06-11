@@ -1,7 +1,6 @@
 def introduction_with_language_optional (name, FlatIron)
   puts "Hi, my name is #{name} and I am learning to program in #{language}"
 end
-introduction_with_language_optional(Emily)
 
 introduction_with_language_optional(Emily, Ruby)
 
